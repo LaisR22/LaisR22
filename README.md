@@ -9,7 +9,7 @@
 ## 👀 Sobre mim  
 💻 Ex-enfermeira que trocou o jaleco pelo código.  
 📚 Estudando **Análise e Desenvolvimento de Sistemas**.  
-💡 Apaixonada por criar soluções com propósito, especialmente nas áreas de **acessibilidade** e **autismo**.  
+💡 Apaixonada por criar soluções com propósito, especialmente nas áreas de **acessibilidade**.  
 
 ---
 
